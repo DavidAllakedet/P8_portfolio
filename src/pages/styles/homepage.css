@@ -13,8 +13,6 @@
 
 .homepage-first-area {
 	display: flex;
-	/* justify-content: space-between; */
-	/* align-items: center; */
 }
 
 .homepage-first-area-left-side {
@@ -131,7 +129,6 @@
         width: 100%;
         /* padding-top: 40px; */
         padding-bottom: 40px;
-        /* margin-left: 10px; */
         order: 1;
     }
     .homepage-after-title {
